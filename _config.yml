@@ -93,6 +93,9 @@ collections:
   giai-phap:
     output: true
     permalink: /:collection/:path/
+  dich-vu:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _posts
@@ -117,6 +120,14 @@ defaults:
   - scope:
       path: ""
       type: giai-phap
+    values:
+      layout: single
+      author_profile: false
+      share: true
+    # _dich_vu
+  - scope:
+      path: ""
+      type: dich-vu
     values:
       layout: single
       author_profile: false
