@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "KHTech"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/logo.jpg"
   bio    : "Technology for Innovators."
   links:
     - label: "Website"
