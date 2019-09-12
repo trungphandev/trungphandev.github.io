@@ -88,6 +88,12 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+# Collections
+collections:
+  giai-phap:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _posts
   - scope:
@@ -107,6 +113,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _giai-phap
+  - scope:
+      path: ""
+      type: giai-phap
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid
