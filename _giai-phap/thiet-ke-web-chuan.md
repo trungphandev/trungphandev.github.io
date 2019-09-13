@@ -10,7 +10,10 @@ KHTech cung cấp dịch vụ tư vấn, thiết kế, và bảo trì website ch
 
 ## Các tính năng chuẩn trên một trang web hiện đại
 
-| #  | Tính năng  | Mô tả |
-|----|------------|-------|
-| 1. | Chuẩn SEO  |       |
-| 2. | Responsive |       |
+| #  | Tính năng               | Mô tả                                                         |
+|----|-------------------------|---------------------------------------------------------------|
+| 1. | Minimal design          |                                                               |
+| 2. | Responsive design       |                                                               |
+| 3. | SEO optimized           |                                                               |
+| 4. | Social Media Integration|                                                               |
+| 5. | Speed-optimized design  |                                                               |
