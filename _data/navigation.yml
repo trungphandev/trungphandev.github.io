@@ -17,7 +17,7 @@ main:
 sanpham:
   -  title: Sản phẩm - Giải pháp
      children: 
-       -  title: "Hệ thống quản lý tài liệu điện tử"
+       -  title: "Hệ thống quản lý văn bản, tài liệu điện tử"
           url: /giai-phap/
        -  title: "Hệ thống quản lý nền tảng bản đồ"
           url: /giai-phap/
