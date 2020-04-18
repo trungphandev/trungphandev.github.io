@@ -114,14 +114,14 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   # _giai-phap
   - scope:
       path: ""
       type: giai-phap
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
     # _dich_vu
   - scope:
@@ -129,7 +129,7 @@ defaults:
       type: dich-vu
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
 
 category_archive:
