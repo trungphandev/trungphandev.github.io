@@ -13,3 +13,12 @@ main:
     url: /giai-phap/
   - title: "Liên hệ"
     url: /lien-he/
+    
+sanpham:
+  -  title: Sản phẩm - Giải pháp
+     childen: 
+       -  title: "Hệ thống quản lý tài liệu điện tử"
+          url: /giai-phap/
+       -  title: "Hệ thống quản lý tài liệu điện tử"
+          url: /giai-phap/
+  
