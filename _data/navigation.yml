@@ -17,8 +17,10 @@ main:
 sanpham:
   -  title: Sản phẩm - Giải pháp
      children: 
+       -  title: "Quản lý bán hàng"
+          url: /giai-phap/ban-hang/
        -  title: "Hệ thống quản lý văn bản, tài liệu điện tử"
-          url: /edms.html
+          url: /giai-phap/quan-ly-van-ban/
        -  title: "Hệ thống quản lý nền tảng bản đồ"
           url: /giai-phap/
   
