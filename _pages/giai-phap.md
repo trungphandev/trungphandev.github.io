@@ -2,6 +2,7 @@
 title: Sản phẩm - Giải pháp
 layout: single
 permalink: /giai-phap/
-sidebar: sanpham
+sidebar:
+  - nav: "sanpham"
 classes: wide
 ---
