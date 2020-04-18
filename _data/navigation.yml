@@ -18,7 +18,7 @@ sanpham:
   -  title: Sản phẩm - Giải pháp
      children: 
        -  title: "Hệ thống quản lý văn bản, tài liệu điện tử"
-          url: /giai-phap/edms.html
+          url: /edms.html
        -  title: "Hệ thống quản lý nền tảng bản đồ"
           url: /giai-phap/
   
