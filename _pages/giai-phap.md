@@ -1,8 +1,7 @@
 ---
-title: Giải pháp
-layout: collection
+title: Sản phẩm - Giải pháp
+layout: single
 permalink: /giai-phap/
-collection: giai-phap
-entries_layout: list
+sidebar: sanpham
 classes: wide
 ---
