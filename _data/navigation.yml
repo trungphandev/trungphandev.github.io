@@ -28,4 +28,5 @@ sanpham:
 web-design:
   - title: Thiết kế Web
     children:
-      - Thiết kế web Wordpress
+      - title: "Thiết kế web Wordpress"
+        url: /web-design/thiet-ke-web-wordpress/
