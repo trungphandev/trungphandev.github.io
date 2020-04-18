@@ -1,6 +1,6 @@
 ---
 title: "Hệ thống quản lý văn bản, tài liệu điện tử"
-permalink: /edms.html
+permalink: /giai-phap/quan-ly-van-ban/
 sidebar:
   nav: sanpham
 ---
